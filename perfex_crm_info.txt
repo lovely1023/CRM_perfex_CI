@@ -1,0 +1,29 @@
+
+
+Okay
+this link for Perfex crm 2.8.2
+
+https://drive.google.com/file/d/1P9l98oRvoV-hgVKhSGqzvK9hvETlXA4F/view?usp=sharing
+A
+this api key for Tap.company :
+
+
+Secret API Key
+sk_test_InSBG6LD5M4e78O21WjZ0RK3
+
+
+Publishable API Key
+pk_test_Vmhkz6Eievg5cu0bG13KnsQX
+
+
+
+--------------------
+
+I use PERFEX CRM 2.8.2 and I want to integrate (tap.company) payment gateway https://www.tap.company/
+
+- create it as a module
+- add configuration from Settings page in PERFEX CRM like (live or sandbox , api key ,etc)
+
+**this links may assist you
+https://github.com/Tap-Payments/gosell-sdk-php
+https://help.perfexcrm.com/create-custom-payment-gateway/
